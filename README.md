@@ -6,6 +6,8 @@ A bottom-up techno-economic assessment (TEA) of marine cloud brightening in a si
 
 **Workbook:** `Draft MCB TEA and Cost Benefit TJ 10122026.xlsx` (draft: global benefit numbers may change once the eligible-particle cutoff is settled)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/titojankowski/mcb-tea-cost-benefit/blob/main/colab/mcb_tea.ipynb)
+
 ## How the workbook is organized
 
 Start on the `Overview` tab. The workbook has two parts.
