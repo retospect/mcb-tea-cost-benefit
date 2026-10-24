@@ -1,0 +1,19 @@
+paper,doi_or_link,supports
+"Harrison, Medcraft & Harrison 2025, Environ. Sci.: Atmos., effervescent nozzle",https://doi.org/10.1039/D5EA00073D,"ranges.csv: 1. Technology Description!B8, B9, B10, B17; literature models L1, L3"
+"Hirasawa et al. 2026 (preprint), range of MCB radiative forcing across ESMs",https://doi.org/10.5194/egusphere-2026-5460,"ranges.csv: 1!B10, 6a!B36; literature model L2"
+"Hirasawa et al. 2026, J. Climate, forcing susceptibility (not checked)",https://doi.org/10.1175/JCLI-D-25-0337.1,"ranges.csv: 6a!B36 (workbook source of K per Tg/yr, not checked)"
+"Hernandez-Jaramillo, Kelaher & Harrison 2025, plume dispersion review",https://doi.org/10.3389/fmars.2025.1450175,"ranges.csv: 5a!B5, 6a!B32 (survival to cloud base, open gap)"
+"Hernandez-Jaramillo et al. 2025, ERL, first outdoor MCB trial",https://doi.org/10.1088/1748-9326/adccd7,ranges.csv: 1!B9; literature model L3
+"Stjern et al. 2018, ACP, G4cdnc multi-model ensemble",https://doi.org/10.5194/acp-18-621-2018,ranges.csv: 6a!B36; literature model L2
+"Latham et al. 2012, Phil. Trans. R. Soc. A, Marine cloud brightening",https://doi.org/10.1098/rsta.2012.0086,survey.csv section B
+"Hirasawa et al. 2023, GRL, regional MCB and tipping elements",https://doi.org/10.1029/2023GL104314,survey.csv section C; summary.csv section 4
+"Xie et al. 2022, ACP, solar geoengineering and the AMOC",https://doi.org/10.5194/acp-22-4581-2022,survey.csv section C; summary.csv section 4
+"Tilmes et al. 2014, GRL, regional Arctic climate engineering",https://doi.org/10.1002/2013GL058731,survey.csv section C
+"van Westen, Kliphuis & Dijkstra 2024, Sci. Adv., AMOC early warning",https://doi.org/10.1126/sciadv.adk1189,survey.csv section C
+"Burke, Hsiang & Miguel 2015, Nature, temperature and economic production",https://doi.org/10.1038/nature15725,ranges.csv: 6a!B44
+"Kotz, Levermann & Wenz 2024, Nature (not checked)",https://doi.org/10.1038/s41586-024-07219-0,ranges.csv: 6a!B44 (not checked)
+"Nordhaus 2016, NBER w22933, DICE-2016R (Projections and Uncertainties About Climate Change in an Era of Minimal Climate Policies)",https://doi.org/10.3386/w22933,ranges.csv: 6a!B44
+"Bilal & Kanzig 2024, NBER w32450, The Macroeconomic Impact of Climate Change: Global vs. Local Temperature",https://doi.org/10.3386/w32450,ranges.csv: 6a!B44
+RRAP CS-06 and CS-07 final reports 2025; RRAP T14 (Harrison et al. 2019),no DOI,"ranges.csv: 2!D40, 5a!B25"
+"PERILS AG industry loss announcements, SCS Cerry (20 Oct 2026) and Raphaela (19 Oct 2026)",https://www.perils.org/news,survey.csv section F; summary.csv
+"Gallagher Re Q3 2026 Natural Catastrophe and Climate Report, via Reinsurance News (21 Oct 2026)",https://www.reinsurancene.ws/gallagher-re-reports-lowest-global-insured-catastrophe-losses-for-first-nine-months-since-2019,"Survey tab, section F; Summary tab"
